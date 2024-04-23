@@ -8,4 +8,4 @@
 ![](./src/hasil-screnshot/Manajemen_Pelanggan.PNG)
 
 # Kendala
-- button crate saat di klik seharus remote ke halaman create, akan tetapi masih not found 404
+- button crate saat di klik seharusnya remote ke halaman create, akan tetapi masih not found 404
